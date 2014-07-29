@@ -187,4 +187,4 @@ if __name__ == "__main__":
     with rm_job.make_runner('out/4/', 'out/result') as runner:
         runner.run()
 
-    #plot_graph('out/result/final')
+    plot_graph('out/result/final')
