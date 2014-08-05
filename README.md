@@ -1,5 +1,5 @@
-mapreduce_python
-================
+#### mapreduce_python ####
+
 Calculate Pagerank of wikipedia pages through MRJob
 
 Download wikipedia dumps in XML format and place them in script directory.
